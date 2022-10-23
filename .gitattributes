@@ -10,3 +10,7 @@ CMakeLists.txt linguist-generated=true
 */*.swift linguist-generated=true
 */CMakeLists.txt linguist-generated=true
 */*.cmake linguist-generated=true
+*/*.kt linguist-generated=true
+*.kt linguist-generated=true
+*/*.html linguist-generated=true
+*.html linguist-generated=true
